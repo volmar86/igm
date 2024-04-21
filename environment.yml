@@ -1,0 +1,7 @@
+name: igm_calculator-env
+dependencies:
+  - python=3.9
+  - anaconda
+  - pip
+  - pip:
+    - -r requirements.txt
